@@ -1,0 +1,2 @@
+using IJulia
+installkernel("Julia heap size limit", "--heap-size-hint=1G")
