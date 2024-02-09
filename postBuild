@@ -6,7 +6,6 @@ Pkg.add("PrettyTables");
 Pkg.add("AlgebraicDynamics");
 Pkg.add("AlgebraicRewriting");
 Pkg.add("Catlab");
-Pkg.add(Pkg.PackageSpec(;name="Javis", version="0.9.0"))Pkg.add("LabelledArrays");
 Pkg.add("OrdinaryDiffEq");
 Pkg.add("Plots");
 Pkg.add("SciMLBase");
